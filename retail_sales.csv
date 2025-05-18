@@ -1,0 +1,201 @@
+OrderID,Product,Category,UnitsSold,UnitPrice,Revenue,Date,Region
+1001,Mouse,Electronics,9,25,225,2023-05-26,East
+1002,Monitor,Electronics,3,200,600,2023-08-10,East
+1003,Water Bottle,Accessories,4,10,40,2023-07-15,South
+1004,Monitor,Electronics,1,200,200,2023-07-07,North
+1005,Monitor,Electronics,1,200,200,2023-04-13,East
+1006,Desk,Furniture,7,300,2100,2023-06-10,East
+1007,Notebook,Stationery,1,3,3,2023-02-13,North
+1008,Water Bottle,Accessories,2,10,20,2023-10-30,West
+1009,Pen,Stationery,3,1,3,2023-05-27,North
+1010,Water Bottle,Accessories,6,10,60,2023-03-13,North
+1011,Pen,Stationery,5,1,5,2023-07-31,East
+1012,Mouse,Electronics,7,25,175,2023-07-13,East
+1013,Water Bottle,Accessories,7,10,70,2023-07-20,West
+1014,Backpack,Accessories,3,40,120,2023-05-29,East
+1015,Desk,Furniture,8,300,2400,2023-06-23,South
+1016,Desk,Furniture,3,300,900,2023-04-11,North
+1017,Desk,Furniture,7,300,2100,2023-03-19,West
+1018,Desk Chair,Furniture,8,150,1200,2023-01-25,North
+1019,Water Bottle,Accessories,1,10,10,2023-01-18,West
+1020,Notebook,Stationery,6,3,18,2023-10-26,South
+1021,Backpack,Accessories,4,40,160,2023-06-03,East
+1022,Keyboard,Electronics,8,45,360,2023-04-23,East
+1023,Pen,Stationery,5,1,5,2023-08-27,North
+1024,Keyboard,Electronics,1,45,45,2023-08-18,North
+1025,Backpack,Accessories,2,40,80,2023-03-16,East
+1026,Water Bottle,Accessories,1,10,10,2023-05-29,South
+1027,Laptop,Electronics,10,800,8000,2023-05-24,East
+1028,Water Bottle,Accessories,7,10,70,2023-11-08,West
+1029,Laptop,Electronics,6,800,4800,2023-06-21,West
+1030,Backpack,Accessories,2,40,80,2023-08-12,West
+1031,Mouse,Electronics,3,25,75,2023-09-21,South
+1032,Keyboard,Electronics,7,45,315,2023-07-25,East
+1033,Keyboard,Electronics,7,45,315,2023-03-11,North
+1034,Laptop,Electronics,2,800,1600,2023-04-21,North
+1035,Mouse,Electronics,2,25,50,2023-10-17,East
+1036,Laptop,Electronics,5,800,4000,2023-10-29,East
+1037,Desk Chair,Furniture,6,150,900,2023-04-13,West
+1038,Backpack,Accessories,7,40,280,2023-07-09,South
+1039,Mouse,Electronics,4,25,100,2023-08-18,East
+1040,Desk,Furniture,5,300,1500,2023-06-16,South
+1041,Laptop,Electronics,6,800,4800,2023-12-19,South
+1042,Backpack,Accessories,10,40,400,2023-09-01,North
+1043,Pen,Stationery,6,1,6,2023-12-10,North
+1044,Mouse,Electronics,2,25,50,2023-05-06,West
+1045,Backpack,Accessories,6,40,240,2023-01-11,South
+1046,Monitor,Electronics,1,200,200,2023-07-28,North
+1047,Pen,Stationery,2,1,2,2023-02-27,East
+1048,Laptop,Electronics,10,800,8000,2023-08-17,East
+1049,Keyboard,Electronics,1,45,45,2023-10-11,North
+1050,Desk Chair,Furniture,7,150,1050,2023-11-22,East
+1051,Mouse,Electronics,10,25,250,2023-06-08,North
+1052,Desk,Furniture,2,300,600,2023-05-22,North
+1053,Desk Chair,Furniture,5,150,750,2023-08-17,North
+1054,Laptop,Electronics,1,800,800,2023-08-20,West
+1055,Desk Chair,Furniture,8,150,1200,2023-05-09,West
+1056,Laptop,Electronics,10,800,8000,2023-10-14,East
+1057,Pen,Stationery,1,1,1,2023-11-17,North
+1058,Pen,Stationery,5,1,5,2023-03-21,West
+1059,Desk Chair,Furniture,5,150,750,2023-01-18,West
+1060,Desk,Furniture,10,300,3000,2023-01-11,West
+1061,Backpack,Accessories,1,40,40,2023-05-28,South
+1062,Desk Chair,Furniture,4,150,600,2023-12-20,West
+1063,Desk Chair,Furniture,7,150,1050,2023-08-02,East
+1064,Laptop,Electronics,3,800,2400,2023-02-12,South
+1065,Desk Chair,Furniture,8,150,1200,2023-12-28,South
+1066,Desk Chair,Furniture,3,150,450,2023-01-04,North
+1067,Pen,Stationery,2,1,2,2023-06-20,West
+1068,Keyboard,Electronics,3,45,135,2023-01-05,East
+1069,Monitor,Electronics,6,200,1200,2023-02-02,South
+1070,Desk Chair,Furniture,4,150,600,2023-10-21,North
+1071,Desk,Furniture,4,300,1200,2023-10-09,East
+1072,Backpack,Accessories,3,40,120,2023-07-29,North
+1073,Laptop,Electronics,3,800,2400,2023-09-22,West
+1074,Desk Chair,Furniture,6,150,900,2023-04-14,West
+1075,Backpack,Accessories,4,40,160,2023-04-05,East
+1076,Laptop,Electronics,4,800,3200,2023-08-22,North
+1077,Keyboard,Electronics,10,45,450,2023-05-07,East
+1078,Backpack,Accessories,10,40,400,2023-10-26,South
+1079,Monitor,Electronics,10,200,2000,2023-07-02,East
+1080,Desk Chair,Furniture,8,150,1200,2023-09-24,West
+1081,Laptop,Electronics,7,800,5600,2023-10-21,South
+1082,Laptop,Electronics,4,800,3200,2023-07-21,West
+1083,Mouse,Electronics,7,25,175,2023-06-14,East
+1084,Desk,Furniture,10,300,3000,2023-03-20,South
+1085,Pen,Stationery,5,1,5,2023-02-15,North
+1086,Backpack,Accessories,10,40,400,2023-06-16,North
+1087,Backpack,Accessories,1,40,40,2023-06-09,East
+1088,Keyboard,Electronics,4,45,180,2023-12-14,West
+1089,Water Bottle,Accessories,2,10,20,2023-04-06,South
+1090,Notebook,Stationery,7,3,21,2023-01-13,South
+1091,Water Bottle,Accessories,9,10,90,2023-03-21,South
+1092,Monitor,Electronics,8,200,1600,2023-08-30,South
+1093,Backpack,Accessories,6,40,240,2023-06-21,East
+1094,Mouse,Electronics,3,25,75,2023-10-02,West
+1095,Desk,Furniture,8,300,2400,2023-07-24,North
+1096,Water Bottle,Accessories,4,10,40,2023-05-13,East
+1097,Laptop,Electronics,4,800,3200,2023-08-20,East
+1098,Mouse,Electronics,5,25,125,2023-10-28,West
+1099,Notebook,Stationery,1,3,3,2023-11-16,North
+1100,Mouse,Electronics,8,25,200,2023-08-24,West
+1101,Water Bottle,Accessories,5,10,50,2023-01-04,North
+1102,Water Bottle,Accessories,7,10,70,2023-05-16,West
+1103,Desk,Furniture,5,300,1500,2023-09-18,West
+1104,Keyboard,Electronics,6,45,270,2023-05-28,North
+1105,Pen,Stationery,10,1,10,2023-11-13,East
+1106,Keyboard,Electronics,5,45,225,2023-09-28,West
+1107,Notebook,Stationery,1,3,3,2023-05-22,West
+1108,Pen,Stationery,9,1,9,2023-10-28,North
+1109,Mouse,Electronics,6,25,150,2023-02-26,South
+1110,Notebook,Stationery,7,3,21,2023-12-30,West
+1111,Backpack,Accessories,3,40,120,2023-10-30,South
+1112,Desk,Furniture,1,300,300,2023-12-14,South
+1113,Monitor,Electronics,8,200,1600,2023-08-07,South
+1114,Desk Chair,Furniture,6,150,900,2023-09-04,East
+1115,Mouse,Electronics,9,25,225,2023-05-09,North
+1116,Mouse,Electronics,1,25,25,2023-01-26,North
+1117,Pen,Stationery,6,1,6,2023-01-19,West
+1118,Laptop,Electronics,7,800,5600,2023-02-05,South
+1119,Backpack,Accessories,10,40,400,2023-06-17,South
+1120,Laptop,Electronics,1,800,800,2023-08-26,North
+1121,Laptop,Electronics,2,800,1600,2023-07-26,South
+1122,Notebook,Stationery,5,3,15,2023-11-15,North
+1123,Monitor,Electronics,3,200,600,2023-07-22,East
+1124,Laptop,Electronics,1,800,800,2023-06-19,South
+1125,Mouse,Electronics,3,25,75,2023-02-14,North
+1126,Mouse,Electronics,9,25,225,2023-03-05,South
+1127,Laptop,Electronics,9,800,7200,2023-03-19,West
+1128,Desk Chair,Furniture,7,150,1050,2023-01-22,West
+1129,Monitor,Electronics,3,200,600,2023-11-21,West
+1130,Desk Chair,Furniture,3,150,450,2023-11-25,East
+1131,Pen,Stationery,8,1,8,2023-09-08,South
+1132,Water Bottle,Accessories,4,10,40,2023-03-23,West
+1133,Pen,Stationery,3,1,3,2023-10-07,North
+1134,Monitor,Electronics,1,200,200,2023-04-29,South
+1135,Desk,Furniture,6,300,1800,2023-06-28,South
+1136,Laptop,Electronics,4,800,3200,2023-12-31,North
+1137,Mouse,Electronics,8,25,200,2023-07-19,West
+1138,Pen,Stationery,1,1,1,2023-04-04,South
+1139,Mouse,Electronics,8,25,200,2023-01-04,East
+1140,Desk,Furniture,3,300,900,2023-03-12,South
+1141,Backpack,Accessories,9,40,360,2023-03-09,North
+1142,Mouse,Electronics,1,25,25,2023-03-07,West
+1143,Water Bottle,Accessories,10,10,100,2023-10-25,East
+1144,Monitor,Electronics,9,200,1800,2023-10-26,South
+1145,Pen,Stationery,1,1,1,2023-02-20,West
+1146,Pen,Stationery,4,1,4,2023-11-28,East
+1147,Backpack,Accessories,8,40,320,2023-02-22,South
+1148,Desk Chair,Furniture,1,150,150,2023-05-01,East
+1149,Pen,Stationery,7,1,7,2023-06-20,South
+1150,Water Bottle,Accessories,1,10,10,2023-06-29,South
+1151,Mouse,Electronics,2,25,50,2023-06-21,West
+1152,Keyboard,Electronics,6,45,270,2023-07-08,North
+1153,Backpack,Accessories,2,40,80,2023-11-10,North
+1154,Pen,Stationery,1,1,1,2023-11-03,West
+1155,Monitor,Electronics,2,200,400,2023-04-29,South
+1156,Monitor,Electronics,3,200,600,2023-06-17,South
+1157,Mouse,Electronics,10,25,250,2023-09-02,West
+1158,Desk,Furniture,4,300,1200,2023-10-31,North
+1159,Mouse,Electronics,3,25,75,2023-04-01,West
+1160,Water Bottle,Accessories,9,10,90,2023-11-05,North
+1161,Desk,Furniture,8,300,2400,2023-06-30,West
+1162,Mouse,Electronics,9,25,225,2023-05-03,South
+1163,Keyboard,Electronics,3,45,135,2023-08-07,North
+1164,Monitor,Electronics,3,200,600,2023-08-26,South
+1165,Keyboard,Electronics,7,45,315,2023-10-03,West
+1166,Desk,Furniture,7,300,2100,2023-10-22,South
+1167,Monitor,Electronics,2,200,400,2023-10-04,North
+1168,Laptop,Electronics,10,800,8000,2023-11-28,West
+1169,Mouse,Electronics,8,25,200,2023-04-10,West
+1170,Backpack,Accessories,4,40,160,2023-09-09,West
+1171,Backpack,Accessories,4,40,160,2023-11-03,South
+1172,Backpack,Accessories,10,40,400,2023-01-14,North
+1173,Water Bottle,Accessories,8,10,80,2023-07-12,West
+1174,Backpack,Accessories,10,40,400,2023-11-10,West
+1175,Keyboard,Electronics,9,45,405,2024-01-01,North
+1176,Keyboard,Electronics,3,45,135,2023-05-03,North
+1177,Backpack,Accessories,1,40,40,2023-05-28,West
+1178,Backpack,Accessories,10,40,400,2023-11-09,East
+1179,Water Bottle,Accessories,3,10,30,2023-06-08,East
+1180,Laptop,Electronics,10,800,8000,2023-06-14,South
+1181,Mouse,Electronics,7,25,175,2023-07-12,East
+1182,Backpack,Accessories,8,40,320,2023-02-28,North
+1183,Laptop,Electronics,6,800,4800,2023-03-23,East
+1184,Mouse,Electronics,2,25,50,2023-11-03,West
+1185,Desk,Furniture,5,300,1500,2023-02-18,West
+1186,Mouse,Electronics,2,25,50,2023-05-23,East
+1187,Pen,Stationery,3,1,3,2023-04-18,South
+1188,Water Bottle,Accessories,9,10,90,2023-04-22,South
+1189,Backpack,Accessories,8,40,320,2023-07-20,North
+1190,Desk,Furniture,7,300,2100,2023-09-08,West
+1191,Monitor,Electronics,1,200,200,2023-10-21,East
+1192,Pen,Stationery,5,1,5,2023-12-17,East
+1193,Notebook,Stationery,10,3,30,2023-01-02,West
+1194,Laptop,Electronics,5,800,4000,2023-04-23,West
+1195,Notebook,Stationery,3,3,9,2023-04-14,South
+1196,Laptop,Electronics,1,800,800,2023-03-31,West
+1197,Backpack,Accessories,3,40,120,2023-07-04,West
+1198,Laptop,Electronics,8,800,6400,2023-09-03,North
+1199,Keyboard,Electronics,8,45,360,2023-05-11,East
+1200,Pen,Stationery,4,1,4,2023-10-31,West
